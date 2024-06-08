@@ -35,3 +35,8 @@ Inventory Analysis, a process of systematically examining and evaluating invento
 
 9. Recommendation would be to consider class B item’s stock since class A item have three times more stock and have a slightly closer average turnover rate.
 
+
+# :octocat:Dashboard
+![image](https://github.com/saurabhkamal/PowerBI-Business-Intelligence-Inventory-Analysis/assets/39690914/f9d307df-59d2-4e9e-b733-5e712ad44f46)
+
+
